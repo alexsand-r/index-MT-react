@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/index-MT-react/static/css/main.deb52fd3.css",
+    "main.js": "/index-MT-react/static/js/main.9a63ab9b.js",
+    "index.html": "/index-MT-react/index.html",
+    "main.deb52fd3.css.map": "/index-MT-react/static/css/main.deb52fd3.css.map",
+    "main.9a63ab9b.js.map": "/index-MT-react/static/js/main.9a63ab9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb52fd3.css",
+    "static/js/main.9a63ab9b.js"
+  ]
+}
